@@ -54,7 +54,7 @@ En esta página se presentarán dos opciones:
 - Create Wallet
 - Import Wallet 
 
-### Create Wallet -> LoginScreen 
+## Create Wallet -> LoginScreen 
 
 Se generará una nueva wallet con su clave privada, clave pública y frase mnemónica. 
 
